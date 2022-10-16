@@ -153,7 +153,7 @@ a:visited :hover :active {
 
     margin: 0;
     padding: 0;
-    font-family: 'Cambria';
+    font-family: Cambria,Georgia,serif; 
     font-size: 30px;
     color: white;
     margin-top: 300px;
@@ -190,7 +190,7 @@ a:visited :hover :active {
 
     margin: 0;
     padding: 0;
-    font-family: 'Cambria';
+    font-family: Cambria,Georgia,serif; 
     font-size: 30px;
     color: white;
     float: left;
@@ -229,7 +229,7 @@ a:visited :hover :active {
 
     margin: 0;
     padding: 0;
-    font-family: 'Cambria';
+    font-family: Cambria,Georgia,serif; 
     font-size: 30px;
     color: white;
     margin-top: 445px;
